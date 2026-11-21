@@ -1,0 +1,26 @@
+# Виртуални среди
+venv/
+.venv/
+env/
+
+# Python кеш
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# SQLite бази данни
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# IDE настройки
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
